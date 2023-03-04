@@ -1,0 +1,6 @@
+Create a new ,txt file
+type content and save the text file
+Teams >> Add to Index
+Teams >> Commit (enter commit message before committing)
+Teams >> Push to Origin
+Goto Git and verify the txt file created through Eclipse 
