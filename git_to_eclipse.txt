@@ -1,0 +1,7 @@
+Create file in GIT and Fetch in Eclipse
+Click on Add file
+Click on create new file
+Commit new file
+go to Eclipse
+Right click project >> Teams >> Fetch from Origin
+Right click project >> Teams >> Pull...
